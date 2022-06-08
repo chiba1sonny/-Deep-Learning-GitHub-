@@ -8,8 +8,8 @@
 | object-detection    |      amusi  |    [object-detection](https://github.com/amusi/awesome-object-detection/blob/master/README.md)    |
 | Awesome Semantic Segmentation       |        mrgloom  |     [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)     |
 | Awesome Human Pose Estimation         |         cbsudux  |     [Awesome Human Pose Estimation ](https://github.com/cbsudux/awesome-human-pose-estimation)      |
-|Awesome-Most Cited Deep Learning Papers  |     terryum  | [Awesome-Most Cited Deep Learning Papers  ]  (https://github.com/terryum/awesome-deep-learning-papers)    |
-|awesome-lane-detection  |      amusi  | [awesome-lane-detection ]  (https://github.com/amusi/awesome-lane-detection)    |
+| Awesome-Most Cited Deep Learning Papers  |     terryum  | [Awesome-Most Cited Deep Learning Papers  ](https://github.com/terryum/awesome-deep-learning-papers)    |
+| awesome-lane-detection  |      amusi  |  [awesome-lane-detection ](https://github.com/amusi/awesome-lane-detection)    |
 
 # 1.[Awesome-Image classification](https://github.com/weiaicunzai/awesome-image-classification)
 このリポジトリの内容：
