@@ -1,4 +1,4 @@
-# -Deep-Learning-GitHub-
+# Great repositories in computer vision
 # 初めに
 画像分野のDeep Learningに関して、GitHubでいくつかの素晴らしいリポジトリ見つかったため、皆さんに紹介したいと思います。
 
